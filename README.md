@@ -10,17 +10,29 @@ d. To upgrade from manual means of student’s hostel management.
 
 # Features
 
-<b>User                                           Admin</b>
--Dashboard                                     - Dashboard
-- Profile                                      - Courses
-- Change Password                               - Add courses
-- Book Hotel                                    - Manage courses
-    - Register                              - Rooms
-    - Via status                                - Add room
-- Book Detail                                   - Manage room
-- Access Log                                - Student Registration
-                                            - Access log
+<b>User                                           </b>
+-Dashboard                                     
+- Profile                                     
+- Change Password                              
+- Book Hotel                                  
+    - Register                            
+    - Via status                           
+- Book Detail                                
+- Access Log                                
+                                           
                                             
+    Admin
+
+- Dashboard
+- Courses
+    - Add courses
+    - Manage courses
+- Rooms
+    - Add room
+    - Manage room
+- Student Registration
+- Access log                                        
+    
 # How to implement?
 
 - Unzip to your xampp/wamp server
